@@ -1,15 +1,25 @@
 # -BSC-Universal-dividend-token
 
 Full functioning
+
 All tokens except bnb that support Binance Chain, such as ETH/DOGE/USDT, etc.
+
 One-click to set the amount of coins that can receive dividends, and the dividend interval
+
 Add whitelist and block addresses in batches
+
 Set the proportion of dividends, return, marketing and destruction of buying and selling with one click
+
 Compilation/Open Source Notes
+
 COMPILER: v0.8.7+commit.e28d00a7.js
+
 Enable optimization: enable and use the default value of 200
+
 Other Settings: default evmVersion, MIT license
+
 Deployment parameters
+
 The contract selects the Blocktechnology contract for deployment, and the Value value is 200000000000000000 (17 0s, 0.2BNB)
 
 name_: token name
